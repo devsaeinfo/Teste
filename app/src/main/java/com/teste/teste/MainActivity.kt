@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         teste = label
 
         teste.setText("Teste")
-
+        teste.setText("BABABA")
 
     }
 }
